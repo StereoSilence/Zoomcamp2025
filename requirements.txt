@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pandas
 sqlalchemy
 psycopg2-binary
+=======
+pandas
+sqlalchemy
+psycopg2-binary
+>>>>>>> f774a13a1bcf50222d7c27bad381324a015dd1af
